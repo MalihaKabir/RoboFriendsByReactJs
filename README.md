@@ -1,11 +1,8 @@
-Learning project from udemy course - React To run the project:
+## Learning project from udemy course - React To run the project:
 
 1st step - Clone this repo,
 2nd step - Run npm install,
 3rd step - Run npm start.
-
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
