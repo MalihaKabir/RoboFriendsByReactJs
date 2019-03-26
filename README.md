@@ -1,7 +1,7 @@
 Learning project from udemy course - React To run the project:
 
-1st step - Clone this repo
-2nd step - Run npm install
+1st step - Clone this repo,
+2nd step - Run npm install,
 3rd step - Run npm start.
 
 
