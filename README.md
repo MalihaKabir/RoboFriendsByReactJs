@@ -1,8 +1,12 @@
-## Learning project from udemy course - React. To run the project:
+## Learning project from udemy course - React.
 
-**1st step** - Clone this repo,
-**2nd step** - Run npm install,
-**3rd step** - Run npm start.
+### To run the project:
+
+* **1st step** - Clone this repo,
+* **2nd step** - Run npm install,
+* **3rd step** - Run npm start.
+
+You can also [visit](https://github.com/MalihaKabir/robofriendsapp-redux) *the Redux version* of this App.
 
 ### Screenshots of RoboFriends App:
 (before scroll)
